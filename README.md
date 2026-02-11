@@ -1,4 +1,10 @@
 # belajar-git
 JILDAN
 LOPE
-YASMIN
+MIN
+DEL
+TA
+CY
+LA
+NAY
+AL
