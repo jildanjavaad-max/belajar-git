@@ -8,3 +8,7 @@ CY
 LA
 NAY
 AL
+JAS
+SHIN
+AD
+RA
